@@ -1,0 +1,24 @@
+.course_container img{
+    height: 100px;
+    width: 100px;
+} 
+
+.course_container{
+    border: 2px solid black; 
+    border-radius: 8px; 
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px; 
+    background-color: rgb(224, 113, 150);
+}
+
+.details{
+    display: flex;
+    justify-content: space-around; 
+    align-items: flex-end; 
+    margin-top: 30px; 
+} 
+
+.details button{
+    margin-bottom: 8px;
+}

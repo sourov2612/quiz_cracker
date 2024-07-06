@@ -1,0 +1,17 @@
+.courses_container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+
+}
+
+.main_container{
+    margin-top: 150px;
+} 
+
+.main_container h2{
+    text-align: left; 
+    margin-bottom: 30px; 
+    font-size: 40px;
+    font-weight: bold; 
+    margin-left: 40px;
+}

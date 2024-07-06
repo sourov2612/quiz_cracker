@@ -1,0 +1,4 @@
+.quiz_container{
+    display: grid;
+    grid-template-columns: repeat(1, 2fr); 
+}
